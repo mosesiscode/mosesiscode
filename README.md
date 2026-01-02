@@ -1,5 +1,4 @@
 [![Konata Izumi GIF](https://media.tenor.com/images/21443492/konata-lucky-star.gif)](https://tenor.com/view/konata-izumi-lucky-star-anime-gif-21443492)
-
 hi my names is moses or moon or whatever you wanna call me!
 
 some languages i know are

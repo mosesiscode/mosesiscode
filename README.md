@@ -1,4 +1,4 @@
-[![Konata Izumi GIF](https://media.tenor.com/images/21443492/konata-lucky-star.gif)](https://tenor.com/view/konata-izumi-lucky-star-anime-gif-21443492)
+![Konata Izumi](https://raw.githubusercontent.com/mosesiscode/mosesiscode/main/tumblr_1aaf233436d56c44bf7ba42e616082c1_e5bea434_1280.gif)
 hi my names is moses or moon or whatever you wanna call me!
 
 some languages i know are

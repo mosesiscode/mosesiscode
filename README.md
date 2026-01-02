@@ -1,4 +1,6 @@
-![Konata Izumi](https://raw.githubusercontent.com/mosesiscode/mosesiscode/main/tumblr_1aaf233436d56c44bf7ba42e616082c1_e5bea434_1280.gif)
+[![Konata Izumi GIF](https://media.tenor.com/images/21443492/konata-lucky-star.gif)](https://tenor.com/view/konata-izumi-lucky-star-anime-gif-21443492)
+
+
 hi my names is moses or moon or whatever you wanna call me!
 
 some languages i know are
@@ -7,4 +9,4 @@ some languages i know are
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 
 
-
+i like modding vr games devving unity games and also creating new tools and just playing vr most times !!!!

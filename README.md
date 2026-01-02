@@ -1,6 +1,10 @@
+[![Konata Izumi GIF](https://media.tenor.com/images/21443492/konata-lucky-star.gif)](https://tenor.com/view/konata-izumi-lucky-star-anime-gif-21443492)
 hi my names is moses or moon or whatever you wanna call me!
 
 some languages i know are
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
+
 
 
